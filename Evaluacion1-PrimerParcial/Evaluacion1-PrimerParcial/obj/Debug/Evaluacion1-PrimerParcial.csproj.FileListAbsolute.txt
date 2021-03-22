@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\bin\Debug\Evaluacion1-PrimerParcial.exe.config
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\bin\Debug\Evaluacion1-PrimerParcial.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\bin\Debug\Evaluacion1-PrimerParcial.pdb
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Ventana2.g.cs
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial_MarkupCompile.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial_MarkupCompile.lref
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Ventana2.baml
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial.g.resources
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1_PrimerParcial.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Evaluacion1-PrimerParcial\Evaluacion1-PrimerParcial\obj\Debug\Evaluacion1-PrimerParcial.pdb
